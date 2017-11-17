@@ -15,4 +15,6 @@
 2017/11/16
 
 Exercise1 dataTypeAndvar.py
+Exercise2 stringAndCoding.py
+Exercise3 listAndTuple.py
 
