@@ -2,10 +2,17 @@
 ---
 2017/11/16 开始学习
 
+##Lesson1
 ##第一个Python程序
 ---
 1_FirstPythonPro
+2017/11/16
 
+##Lesson2
 ##Python基础
 ---
 2_PythonBasic
+2017/11/16
+
+Exercise1 dataTypeAndvar.py
+
