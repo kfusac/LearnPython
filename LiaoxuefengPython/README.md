@@ -19,3 +19,11 @@ Exercise2 stringAndCoding.py
 Exercise3 listAndTuple.py
 Exercise4 conditional.py
 Exercise5 loop.py
+
+##Lesson3
+##函数
+---
+3_Function
+2017/11/20
+
+Exercise1 callFunc.py
