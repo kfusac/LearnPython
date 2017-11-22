@@ -42,3 +42,11 @@ Exercise2 iterate.py<br/>
 Exercise3 listComprehensions.py<br/>
 Exercise4 generator.py<br/>
 Exercise5 iterator.py<br/>
+
+##Lesson5<br/>
+函数式变成
+---
+5_FunctionalProgramming
+2017/11/22
+
+Exercise1 map_reduce.py<br/>
