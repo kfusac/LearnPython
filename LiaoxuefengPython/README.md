@@ -41,3 +41,4 @@ Exercise1 slice.py<br/>
 Exercise2 iterate.py<br/>
 Exercise3 listComprehensions.py<br/>
 Exercise4 generator.py<br/>
+Exercise5 iterator.py<br/>
