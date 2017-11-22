@@ -30,3 +30,11 @@ Exercise1 callFunc.py<br/>
 Exercise2 defFunc.py<br/>
 Exercise3 funcArgs.py<br/>
 Exercise4 recursionFunc.py
+
+##Lesson4<br/>
+高级特性
+---
+4_AdvanceFeature
+2017/11/22
+
+Exercise1 slice.py
