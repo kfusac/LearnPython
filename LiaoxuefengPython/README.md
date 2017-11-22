@@ -28,3 +28,4 @@ Exercise5 loop.py
 
 Exercise1 callFunc.py
 Exercise2 defFunc.py
+Exercise3 funcArgs.py
