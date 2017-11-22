@@ -2,30 +2,31 @@
 ---
 2017/11/16 开始学习
 
-##Lesson1
-##第一个Python程序
+##Lesson1<br/>
+第一个Python程序
 ---
 1_FirstPythonPro
 2017/11/16
 
-##Lesson2
-##Python基础
+##Lesson2<br/>
+Python基础
 ---
 2_PythonBasic
 2017/11/16
 
-Exercise1 dataTypeAndvar.py
-Exercise2 stringAndCoding.py
-Exercise3 listAndTuple.py
-Exercise4 conditional.py
+Exercise1 dataTypeAndvar.py<br/>
+Exercise2 stringAndCoding.py<br/>
+Exercise3 listAndTuple.py<br/>
+Exercise4 conditional.py<br/>
 Exercise5 loop.py
 
-##Lesson3
-##函数
+##Lesson3<br/>
+函数
 ---
 3_Function
 2017/11/20
 
-Exercise1 callFunc.py
-Exercise2 defFunc.py
-Exercise3 funcArgs.py
+Exercise1 callFunc.py<br/>
+Exercise2 defFunc.py<br/>
+Exercise3 funcArgs.py<br/>
+Exercise4 recursionFunc.py
