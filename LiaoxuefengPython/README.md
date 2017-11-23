@@ -52,3 +52,4 @@ Exercise5 iterator.py<br/>
 Exercise1 map_reduce.py<br/>
 Exercise2 filter.py<br/>
 Exercise3 sorted.py<br/>
+Exercise4 returnFunc.py<br/>
