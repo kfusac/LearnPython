@@ -50,4 +50,5 @@ Exercise5 iterator.py<br/>
 2017/11/22
 
 Exercise1 map_reduce.py<br/>
-Exercise2 filter<br/>
+Exercise2 filter.py<br/>
+Exercise3 sorted.py<br/>
