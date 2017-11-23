@@ -5,13 +5,13 @@
 ##Lesson1<br/>
 第一个Python程序
 ---
-1_FirstPythonPro
+1_FirstPythonPro<br/>
 2017/11/16
 
 ##Lesson2<br/>
 Python基础
 ---
-2_PythonBasic
+2_PythonBasic<br/>
 2017/11/16
 
 Exercise1 dataTypeAndvar.py<br/>
@@ -23,7 +23,7 @@ Exercise5 loop.py
 ##Lesson3<br/>
 函数
 ---
-3_Function
+3_Function<br/>
 2017/11/20
 
 Exercise1 callFunc.py<br/>
@@ -34,7 +34,7 @@ Exercise4 recursionFunc.py
 ##Lesson4<br/>
 高级特性
 ---
-4_AdvanceFeature
+4_AdvanceFeature<br/>
 2017/11/22
 
 Exercise1 slice.py<br/>
@@ -44,9 +44,9 @@ Exercise4 generator.py<br/>
 Exercise5 iterator.py<br/>
 
 ##Lesson5<br/>
-函数式变成
+函数式编程
 ---
-5_FunctionalProgramming
+5_FunctionalProgramming<br/>
 2017/11/22
 
 Exercise1 map_reduce.py<br/>
