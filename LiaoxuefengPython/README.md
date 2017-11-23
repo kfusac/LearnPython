@@ -63,3 +63,4 @@ Exercise6 decorator.py<br/>
 2017/11/23
 
 Exercise1 access_restriction.py<br/>
+Exercise2 instance_properties_class_attributes.py<br/>
