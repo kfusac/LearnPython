@@ -54,3 +54,4 @@ Exercise2 filter.py<br/>
 Exercise3 sorted.py<br/>
 Exercise4 returnFunc.py<br/>
 Exercise5 lambda.py<br/>
+Exercise6 decorator.py<br/>
