@@ -53,3 +53,4 @@ Exercise1 map_reduce.py<br/>
 Exercise2 filter.py<br/>
 Exercise3 sorted.py<br/>
 Exercise4 returnFunc.py<br/>
+Exercise5 lambda.py<br/>
