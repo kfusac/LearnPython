@@ -55,3 +55,11 @@ Exercise3 sorted.py<br/>
 Exercise4 returnFunc.py<br/>
 Exercise5 lambda.py<br/>
 Exercise6 decorator.py<br/>
+
+##Lesson6<br/>
+面向对象编程
+---
+6_ObjectOrientedProgramming<br/>
+2017/11/23
+
+Exercise1 access_restriction.py<br/>
