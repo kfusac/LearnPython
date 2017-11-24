@@ -86,3 +86,5 @@ Exercise1 error_handle.py<br/>
 Note1	  mydict.py<br/>
 Note2	  mydict_test.py<br/>
 Exercise2 unit_test.py<br/>
+Note3	  mydict2.py<br/>
+Exercise3 doc_test.py<br/>
