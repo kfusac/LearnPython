@@ -72,3 +72,4 @@ Exercise2 instance_properties_class_attributes.py<br/>
 2017/11/23
 
 Exercise1 use_@property.py<br/>
+Exercise2 special_class.py<br/>
