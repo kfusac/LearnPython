@@ -75,3 +75,11 @@ Exercise1 use_@property.py<br/>
 Exercise2 special_class.py<br/>
 Exercise3 use_enum.py<br/>
 note1	  ORM.py<br/>
+
+##Lesson8<br/>
+错误、调试和测试
+---
+8_ErrorDebugTest<br/>
+2017/11/24
+
+Exercise1 error_handle.py<br/>
