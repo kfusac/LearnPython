@@ -64,3 +64,14 @@ Exercise6 decorator.py<br/>
 
 Exercise1 access_restriction.py<br/>
 Exercise2 instance_properties_class_attributes.py<br/>
+
+##Lesson7<br/>
+面向对象高级编程
+---
+7_ObjectOrientedAdvancedProgramming<br/>
+2017/11/23
+
+Exercise1 use_@property.py<br/>
+Exercise2 special_class.py<br/>
+Exercise3 use_enum.py<br/>
+note1	  ORM.py<br/>
