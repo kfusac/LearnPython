@@ -74,7 +74,7 @@ Exercise2 instance_properties_class_attributes.py<br/>
 Exercise1 use_@property.py<br/>
 Exercise2 special_class.py<br/>
 Exercise3 use_enum.py<br/>
-note1	  ORM.py<br/>
+Note1	  ORM.py<br/>
 
 ##Lesson8<br/>
 错误、调试和测试
@@ -83,3 +83,6 @@ note1	  ORM.py<br/>
 2017/11/24
 
 Exercise1 error_handle.py<br/>
+Note1	  mydict.py<br/>
+Note2	  mydict_test.py<br/>
+Exercise2 unit_test.py<br/>
