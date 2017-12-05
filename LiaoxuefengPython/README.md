@@ -97,3 +97,13 @@ IO编程
 Exercise1 file_read_write.py<br/>
 Exercise2 search_file_in_dir.py<br/>
 Exercise3 serialize.py<br/>
+
+##Lesson10<br/>
+进程和线程
+---
+10_ProcessAndThread<br/>
+2017/12/4
+Note1	  my_multiprocessing.py<br/>
+Note2	  my_pool.py<br/>
+Note3	  my_subprocess.py<br/>
+Note4	  interprocess_communticate.py<br/>
