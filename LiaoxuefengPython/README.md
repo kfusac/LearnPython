@@ -107,3 +107,5 @@ Note1	  my_multiprocessing.py<br/>
 Note2	  my_pool.py<br/>
 Note3	  my_subprocess.py<br/>
 Note4	  interprocess_communticate.py<br/>
+Note5	  treading_start.py<br/>
+Note6	  lock.py<br/>
