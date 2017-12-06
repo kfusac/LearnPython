@@ -120,3 +120,10 @@ Note9	  task_worker.py<br/>	!-运行时出错,需要后续修改
 2017/12/6
 Exercise1 regex_email.py<br/>
 Exercise2 regex_email_with_name.py<br/>
+
+##Lesson12<br/>
+常用内建模块
+---
+12_CommonBuilt-inModule<br/>
+2017/12/6
+Exercise1 use_datetime.py<br/>
