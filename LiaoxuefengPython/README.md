@@ -129,3 +129,5 @@ Exercise2 regex_email_with_name.py<br/>
 Exercise1 use_datetime.py<br/>
 Exercise2 safe_base64_decode.py<br/>
 Exercise3 bmpinfo.py<br/>
+Exercise4 calc_md5.py<br/>
+Exercise5 more_safe_md5.py<br/>
