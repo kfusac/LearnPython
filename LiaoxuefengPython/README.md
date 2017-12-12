@@ -128,3 +128,4 @@ Exercise2 regex_email_with_name.py<br/>
 2017/12/6
 Exercise1 use_datetime.py<br/>
 Exercise2 safe_base64_decode.py<br/>
+Exercise3 bmpinfo.py<br/>
