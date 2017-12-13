@@ -120,3 +120,19 @@ Note9	  task_worker.py<br/>	!-运行时出错,需要后续修改
 2017/12/6
 Exercise1 regex_email.py<br/>
 Exercise2 regex_email_with_name.py<br/>
+
+##Lesson12<br/>
+常用内建模块
+---
+12_CommonBuilt-inModule<br/>
+2017/12/6
+Exercise1 use_datetime.py<br/>
+Exercise2 safe_base64_decode.py<br/>
+Exercise3 bmpinfo.py<br/>
+Exercise4 calc_md5.py<br/>
+Exercise5 more_safe_md5.py<br/>
+Exercise6 salt_with_hmac.py<br/>
+Exercise7 calc_pi_with_itertools.py<br/>
+Exercise8 json_with_urllib.py<br/>
+Exercise9 analysis_weather_with_XML.py<br/>
+Exercise10 analysis_HTML.py<br/>
