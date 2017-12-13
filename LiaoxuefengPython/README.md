@@ -94,6 +94,7 @@ IO编程
 ---
 9_IOProgramming<br/>
 2017/11/27
+
 Exercise1 file_read_write.py<br/>
 Exercise2 search_file_in_dir.py<br/>
 Exercise3 serialize.py<br/>
@@ -103,6 +104,7 @@ Exercise3 serialize.py<br/>
 ---
 10_ProcessAndThread<br/>
 2017/12/4
+
 Note1	  my_multiprocessing.py<br/>
 Note2	  my_pool.py<br/>
 Note3	  my_subprocess.py<br/>
@@ -110,14 +112,15 @@ Note4	  interprocess_communticate.py<br/>
 Note5	  treading_start.py<br/>
 Note6	  lock.py<br/>
 Note7	  threadlocal.py<br/>
-Note8	  task_master.py<br/>	!-运行时出错,需要后续修改
-Note9	  task_worker.py<br/>	!-运行时出错,需要后续修改
+Note8	  task_master.py	!-运行时出错,需要后续修改<br/>
+Note9	  task_worker.py	!-运行时出错,需要后续修改<br/>
 
 ##Lesson11<br/>
 正则表达式
 ---
 11_RegularExpression<br/>
 2017/12/6
+
 Exercise1 regex_email.py<br/>
 Exercise2 regex_email_with_name.py<br/>
 
@@ -126,6 +129,7 @@ Exercise2 regex_email_with_name.py<br/>
 ---
 12_CommonBuilt-inModule<br/>
 2017/12/6
+
 Exercise1 use_datetime.py<br/>
 Exercise2 safe_base64_decode.py<br/>
 Exercise3 bmpinfo.py<br/>
@@ -136,3 +140,11 @@ Exercise7 calc_pi_with_itertools.py<br/>
 Exercise8 json_with_urllib.py<br/>
 Exercise9 analysis_weather_with_XML.py<br/>
 Exercise10 analysis_HTML.py<br/>
+
+##Lesson13<br/>
+访问数据库
+---
+13_accessDatabase<br/>
+2017/12/13
+
+Exercise1 use_SQLite.py<br/>
