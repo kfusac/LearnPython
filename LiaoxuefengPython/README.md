@@ -134,3 +134,4 @@ Exercise5 more_safe_md5.py<br/>
 Exercise6 salt_with_hmac.py<br/>
 Exercise7 calc_pi_with_itertools.py<br/>
 Exercise8 json_with_urllib.py<br/>
+Exercise9 analysis_weather_with_XML.py<br/>
