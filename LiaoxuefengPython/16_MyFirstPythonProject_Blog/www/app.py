@@ -1,3 +1,18 @@
+#!/usr/bin/env python
+# encoding: utf-8
+
+
+"""
+@version: ??
+@author: kfusac
+@license: kfusac Licence
+@contact: kfusac@163.com
+@software: 16_MyFirstPythonProject_Blog
+@IDE:PyCharm
+@file: coroweb.py
+@time: 17/12/21 14:38
+"""
+
 import asyncio
 import os
 import json

@@ -7,8 +7,9 @@
 @author: kfusac
 @license: kfusac Licence
 @contact: kfusac@163.com
-@software: PyCharm
-@file: orm.py
+@software: 16_MyFirstPythonProject_Blog
+@IDE:PyCharm
+@file: coroweb.py
 @time: 17/12/20 11:03
 """
 
