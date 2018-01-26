@@ -9,7 +9,7 @@
 @contact: kfusac@163.com
 @software: FluentPython
 @IDE:PyCharm
-@file: simple2-20.py
+@file: simple2_20.py
 @time: 17/12/25 15:59
 """
 from array import array

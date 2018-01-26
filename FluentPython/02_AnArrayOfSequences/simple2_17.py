@@ -9,7 +9,7 @@
 @contact: kfusac@163.com
 @software: FluentPython
 @IDE:PyCharm
-@file: simple2-17.py
+@file: simple2_17.py
 @time: 17/12/25 15:36
 """
 import bisect

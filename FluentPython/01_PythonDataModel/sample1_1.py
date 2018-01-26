@@ -9,7 +9,7 @@
 @contact: kfusac@163.com
 @software: FluentPython
 @IDE:PyCharm
-@file: sample1-1.py
+@file: sample1_1.py
 @time: 17/12/25 11:46
 """
 
